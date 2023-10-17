@@ -1,0 +1,65 @@
+*{
+    margin:0%;
+}
+.container{
+    width: 100%;
+    height: 100vh;
+    background-image: url('./img/bangla.jpg');
+    display: flex;
+    justify-content: space-between;
+
+}
+.logo{
+    
+    color: yellow;
+    font-size: 27px;
+
+}
+.menu{
+    width: 50%;
+}
+
+.menu ul {
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+}
+
+.menu ul li{
+    color: aliceblue;
+}
+.content{
+    background: color #ffd70f;;
+}
+
+.container {
+    text-align: right;
+    padding: 5px 16px;
+}
+
+.homepage img{
+    text-align: center;
+  
+}
+body{
+    text-align: center;
+}
+.content{display: flex;
+    justify-content: space-evenly;
+}
+.description{
+    background-color: #ffd70f;
+}
+.footer{
+    font-style: oblique;
+     background-color: aqua;
+}
+.caption{
+    background-color: cornflowerblue;
+}
+.contact{
+    text-align: center;
+}
+.information{ 
+        
+}
